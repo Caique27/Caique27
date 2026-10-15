@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hey, I'm Caique👋 
 
-<!--
-**Caique27/Caique27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21-year-old developer based in Brazil, and I'm passionate about technology and facing new challenges!
 
-Here are some ideas to get you started:
+- Check out my [LinkedIn]([https://www.linkedin.com/in/mirayaabrodi/](https://www.linkedin.com/in/caique-alves-/)) to learn more about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 My Stack
+
+I'm currently working as an IT Consultant for the United States remotely, here is my Stack
+
+- Typescript for Frontend(React.js) and Backend(Node.js)
+- Python for data science and AI
+- I'm also interested in learning new languages!
+
+## ✨ Fun Facts 
+
+- Planes are my current hobby(but I also like Formula 1)
+- I can solve a Rubik's cube in under 15 seconds
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn]([https://www.linkedin.com/in/mirayaabrodi/](https://www.linkedin.com/in/caique-alves-/)). 
+ 
+ For professional inquiries, reach out via email at [caiquealvesdesouza27@gmail.com](mailto:caiquealvesdesouza27@gmail.com). 
