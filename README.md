@@ -2,7 +2,7 @@
 
 I'm a 21-year-old developer based in Brazil, and I'm passionate about technology and facing new challenges!
 
-- Check out my [LinkedIn]([https://www.linkedin.com/in/caique-alves-/]) to learn more about me.
+- Check out my [LinkedIn](https://www.linkedin.com/in/caique-alves-/) to learn more about me.
 
 ## 🔭 My Stack
 
@@ -19,6 +19,6 @@ I'm currently working as an IT Consultant for the United States remotely, here i
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn]([https://www.linkedin.com/in/mirayaabrodi/](https://www.linkedin.com/in/caique-alves-/)). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/caique-alves-/). 
  
  For professional inquiries, reach out via email at [caiquealvesdesouza27@gmail.com](mailto:caiquealvesdesouza27@gmail.com). 
